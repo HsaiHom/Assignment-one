@@ -1,0 +1,353 @@
+
+.btn{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: rgb(38, 186, 231);
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #fff;
+    border-radius: 5px;
+    margin: 15px;
+    display: inline-block;
+
+}
+.vpn{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: rgb(141, 139, 141);
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #fff;
+    border-radius: 5px;
+    
+    margin: 15px;
+    display: inline-block;
+
+}
+.suc{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: rgb(19, 146, 67);
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #fff;
+    border-radius: 5px;
+    
+    margin: 15px;
+display:inline-block;
+}
+.nfo{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: rgb(25, 41, 187);
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #fff;
+    border-radius: 5px;
+    margin: 15px;
+display: inline-block;
+}
+.warn{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: rgb(158, 230, 25);
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #fff;
+    border-radius: 5px;
+    margin: 15px;
+    display: inline-block;
+
+}
+.dag{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: rgb(214, 6, 6);
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #fff;
+    border-radius: 5px;
+    margin: 15px;
+display: inline-block;
+}
+.rou{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: rgb(38, 186, 231);
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #fff;
+    border-radius: 50px;
+    margin: 15px;
+display: inline-block;
+}
+i{
+    background: rgb(38, 186, 231);
+    
+    padding: 25px 25px;
+    text-align: center;
+    color: #fff;
+    border-radius: 50px;
+    margin: 20px;
+    display: inline-block;
+}
+
+.icon{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: rgb(38, 186, 231);
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #fff;
+    border-radius: 5px;
+    margin: 20px;
+display: inline-block;
+}
+.das{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #3da2d1;
+    border-radius: 5px;
+    border-style: dashed;
+    border-color: #3da2d1;
+    margin: 15px;
+    display: inline-block;
+}
+.lin{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+ 
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #36b6bb;
+    border-radius: 5px;
+    margin: 15px;
+    display: inline-block;
+}
+.cli{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: rgb(38, 186, 231);
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #fff;
+    border-radius: 5px;
+    margin: 15px;
+    display: inline-block;
+}
+.jel{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: rgb(38, 186, 231);
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #fff;
+    border-radius: 5px;
+    margin: 15px;
+    display: inline-block;
+}
+.fill{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #3da2d1;
+    border-radius: 5px;
+    border-style: groove;
+    border-color: #3da2d1;
+    margin: 15px;
+    display: inline-block;
+}
+.pul{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: rgb(38, 186, 231);
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #fff;
+    border-radius: 5px;
+    margin: 15px;
+    display: inline-block;
+}
+.ope{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #3da2d1;
+    border-radius: 5px;
+    border-style: groove;
+    border-color: #3da2d1;
+    margin: 15px;
+    display: inline-block;
+}
+.sli{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #3da2d1;
+    border-radius: 5px;
+    border-style: groove;
+    border-color: #3da2d1;
+    margin: 15px;
+    display: inline-block;
+}
+.thr{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #3da2d1;
+    border-radius: 5px;
+    border-style: groove;
+    border-color: #3da2d1;
+    margin: 15px;
+    display: inline-block;
+}
+.off{
+    font-weight: bold;
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #3da2d1;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #3da2d1;
+    margin: 15px;
+    display: inline-block;
+}
+.flip{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: rgb(38, 186, 231);
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #fff;
+    
+    margin: 15px;
+    display: inline-block;
+}
+.mar {
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: rgb(38, 186, 231);
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #fff;
+    border-radius: 50px;
+    margin: 15px;
+display: inline-block;
+}
+.cross{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #3da2d1;
+    border-radius: 5px;
+    border-style: groove;
+    border-color: #3da2d1;
+    margin: 15px;
+    display: inline-block;
+}
+.line{
+    font-family: "Roboto",sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+ 
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #36b6bb;
+    border-radius: 5px;
+    margin: 15px;
+    display: inline-block;
+
+}
